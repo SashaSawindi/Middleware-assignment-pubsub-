@@ -4,8 +4,7 @@
 
 ## **Objective**
 
-Implement a **multi-client Publish/Subscribe middleware** using Python socket programming. The server must handle multiple concurrent clients, with each client acting as either a **Publisher** or a **Subscriber**. Messages from publishers are broadcast to all subscribers, enabling asynchronous communication between participants[^1].
-
+Implement a **multi-client Publish/Subscribe middleware** using Python socket programming. The server must handle multiple concurrent clients, with each client acting as either a **Publisher** or a **Subscriber**. Messages from publishers are broadcast to all subscribers, enabling asynchronous communication between participants.
 ## **Features**
 
 - **Concurrent Client Handling:** The server supports multiple clients simultaneously.
